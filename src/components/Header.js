@@ -21,6 +21,7 @@ const Header = () => {
           <Link to="/"><a>Home</a></Link>
           <Link to="/about"><a>About</a></Link>
           <Link to="/portfolio"><a>Portfolio</a></Link>
+          <Link to="https://products-nine-eta.vercel.app/"><a>Products</a></Link>
           <Link to="/contact"><a>Contact</a></Link>
         </li>
 
